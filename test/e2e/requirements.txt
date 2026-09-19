@@ -1,7 +1,7 @@
 aiofiles==23.2.1
 altair==5.5.0
 annotated-types==0.7.0
-anyio==4.7.0
+anyio==4.14.2
 astor==0.8.1
 astroid==3.3.8
 attrs==24.3.0
