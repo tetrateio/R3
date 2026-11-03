@@ -71,7 +71,7 @@ pydantic_core==2.27.2
 pydocstyle==6.3.0
 pydub==0.25.1
 pyflakes==3.2.0
-pylint==3.3.3
+pylint==4.0.9
 pyparsing==3.2.0
 pytest==8.3.5
 python-dateutil==2.9.0.post0
