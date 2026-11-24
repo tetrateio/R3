@@ -57,7 +57,7 @@ more-itertools==10.6.0
 narwhals==1.19.1
 nltk==3.9.1
 numpy==1.26.4
-orjson==3.10.12
+orjson==3.11.6
 packaging==24.2
 pandas==2.2.3
 pep8-naming==0.14.1
